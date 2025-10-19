@@ -1,4 +1,0 @@
-HEAD
-Bugfix branch created — fixed typo example
-Added login feature
-bugfix/fix-typo
